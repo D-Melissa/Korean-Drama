@@ -6,7 +6,7 @@ When I first started learning SQL, I thought that a good way to learn would be t
 
 Why not explore list of "Korean Drama"?
 
-There are so many k-drama's released every year, having different rating rate and streamed on various on Network belonging to different genre, with different stories. 
+There are so many k-drama's released every year, having different ratings and streamed on various on Network belonging to different genre, with different stories. 
 
 I created this two tables from scratch, to practice some basic SQL skills.
 
