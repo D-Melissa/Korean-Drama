@@ -11,3 +11,5 @@ There are so many k-drama's released every year, having different rating rate an
 I created this two tables from scratch, to practice some basic SQL skills.
 
 Feel free to copy and paste and practice yourself. I hope you enjoy it!
+
+I also put the results in Tableau. Check it out: https://public.tableau.com/app/profile/melissa8342/viz/KoreanDramaListasof2022/Koreandramalistasof2022
